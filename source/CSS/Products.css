@@ -1,0 +1,89 @@
+.Content {
+  border-radius: 20px;
+  background-color: rgb(44, 44, 61);
+  position: relative;
+  left: 5%;
+  top: 70px;
+  width: 90%;
+  height: calc(100vh - 140px);
+  min-height: 50px;
+  overflow: hidden;
+}
+
+.Scroll {
+  height: calc(100vh - 195px);
+  position: relative;
+  top: -120px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.Header {
+  position: relative;
+  top: -9px;
+  height: 85px;
+  z-index: 2;
+}
+
+.menu {
+  height: 25px;
+  width: auto;
+  background-color: rgba(255, 255, 255, 0);
+  border: 0cm;
+  color: rgb(255, 255, 255);
+  font-family: sans-serif;
+}
+
+.menu:hover {
+  color: rgb(86, 173, 255);
+}
+
+.menu:active {
+  color: rgb(72, 119, 163);
+}
+
+.next {
+  opacity: 0;
+  transition-duration: 500ms;
+}
+
+.next:hover {
+  opacity: 0.7;
+}
+
+.next:active {
+  transition-duration: 0ms;
+  opacity: 1;
+}
+
+.Prodimg {
+  position: relative;
+  top: -20px;
+  left: 2.5%;
+  border-radius: 20px;
+}
+
+.Downloadbar {
+  /*background-color: black;*/
+  position: absolute;
+  width: 100%;
+  border-radius: 5px;
+  bottom: -10px;
+  left: 10px;
+}
+
+.Download {
+  object-fit: cover;
+  position: relative;
+  left: -15px;
+  border-radius: 5px;
+  opacity: 0.7;
+}
+
+.Download:hover {
+  opacity: 0.85;
+}
+
+.Download:active {
+  opacity: 1;
+}
