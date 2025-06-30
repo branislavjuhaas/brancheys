@@ -4,7 +4,7 @@ Welcome to the repository for this website! I created this project in January 20
 
 While not polished or advanced, this project represents an important first step in my programming journey.
 
-> **Note:** This project has been modified slightly to make it hostable. You can find the original, unmodified version in the [`original` branch](https://github.com/branislavjuhaas/brancheys/tree/original).
+> **Note:** This project has been modified slightly to make it hostable. You can find the original, unmodified version in the [`original`](https://github.com/branislavjuhaas/brancheys/tree/original) branch.
 
 ## About This Project
 
@@ -12,10 +12,10 @@ This website was a learning exercise to understand the basics of HTML, CSS, and 
 
 The site includes several pages:
 
-- **[Home](source/Brancheys.html)**: The main landing page featuring a simple image carousel.
-- **[Products](source/Subpages/Products.html)**: A page showcasing fictional products with a dynamic description area.
-- **[About](source/Subpages/About.html)**: Information about the fictional "Branchey's" company.
-- **[Contacts](source/Subpages/Contacts.html)**: A basic contact information page.
+- **[Home](source/index.html)**: The main landing page featuring a simple image carousel.
+- **[Products](source/subpages/products.html)**: A page showcasing fictional products with a dynamic description area.
+- **[About](source/subpages/about.html)**: Information about the fictional "Branchey's" company.
+- **[Contacts](source/subpages/contacts.html)**: A basic contact information page.
 
 ## Technologies Used
 
@@ -27,7 +27,7 @@ This project was built from the ground up using fundamental web technologies:
 
 ## How to View
 
-To see the website in action, you can open the [`source/index.html`](source/Brancheys.html) file directly in your web browser.
+To see the website in action, you can open the [`source/index.html`](source/index.html) file directly in your web browser.
 
 ## License
 
