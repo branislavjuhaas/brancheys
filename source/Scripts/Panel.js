@@ -1,16 +1,15 @@
 let Products = document.getElementById("Prods");
 let Contacts = document.getElementById("Conts");
 let About = document.getElementById("About");
-let Other = document.getElementById("Other");
 
 Products.onclick = function () {
-  window.open("Subpages/Products.html", "_self");
+  window.open("subpages/products.html", "_self");
 };
 
 About.onclick = function () {
-  window.open("Subpages/About.html", "_self");
+  window.open("subpages/about.html", "_self");
 };
 
 Contacts.onclick = function () {
-  window.open("Subpages/Contacts.html", "_self");
+  window.open("subpages/contacts.html", "_self");
 };

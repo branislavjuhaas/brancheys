@@ -1,5 +1,5 @@
 let Home = document.getElementById("Home");
 
 Home.onclick = function () {
-  window.open("../Brancheys.html", "_self");
+  window.open("../index.html", "_self");
 };
