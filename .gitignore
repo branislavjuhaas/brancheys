@@ -1,0 +1,17 @@
+# Editor files
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*.orig
+*.log
+*.DS_Store
+*.idea/
+*.vscode/
+*.project
+*.classpath
+
+# OneDrive zone identifier files ending with :Zone.Identifier
+*.OneDriveTemp
+*:Zone.Identifier
