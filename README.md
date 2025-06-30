@@ -4,6 +4,8 @@ Welcome to the repository for this website! I created this project in January 20
 
 While not polished or advanced, this project represents an important first step in my programming journey.
 
+> **Note:** This project has been modified slightly to make it hostable. You can find the original, unmodified version in the [`original` branch](https://github.com/branislavjuhaas/brancheys/tree/original).
+
 ## About This Project
 
 This website was a learning exercise to understand the basics of HTML, CSS, and JavaScript. The concept was a small software company with a mission to make programming accessible and to develop for classic platforms like MS-DOS.
@@ -25,7 +27,7 @@ This project was built from the ground up using fundamental web technologies:
 
 ## How to View
 
-To see the website in action, you can open the [`source/Brancheys.html`](source/Brancheys.html) file directly in your web browser.
+To see the website in action, you can open the [`source/index.html`](source/Brancheys.html) file directly in your web browser.
 
 ## License
 
