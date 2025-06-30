@@ -1,2 +1,32 @@
-# brancheys
-Archive of the first personal website of Branislav Juhás
+# Branchey's
+
+Welcome to the repository for this website! I created this project in January 2021 as my initial dive into the world of web development. It's a simple, static site built for a fictional company I called "Branchey's".
+
+While not polished or advanced, this project represents an important first step in my programming journey.
+
+## About This Project
+
+This website was a learning exercise to understand the basics of HTML, CSS, and JavaScript. The concept was a small software company with a mission to make programming accessible and to develop for classic platforms like MS-DOS.
+
+The site includes several pages:
+
+- **[Home](source/Brancheys.html)**: The main landing page featuring a simple image carousel.
+- **[Products](source/Subpages/Products.html)**: A page showcasing fictional products with a dynamic description area.
+- **[About](source/Subpages/About.html)**: Information about the fictional "Branchey's" company.
+- **[Contacts](source/Subpages/Contacts.html)**: A basic contact information page.
+
+## Technologies Used
+
+This project was built from the ground up using fundamental web technologies:
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+## How to View
+
+To see the website in action, you can open the [`source/Brancheys.html`](source/Brancheys.html) file directly in your web browser.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

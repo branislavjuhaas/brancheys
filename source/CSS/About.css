@@ -1,0 +1,19 @@
+.Content {
+  border-radius: 20px;
+  background-color: rgba(44, 44, 61, 0);
+  position: relative;
+  left: 10%;
+  top: 70px;
+  width: 80%;
+  height: calc(100vh - 140px);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  font-size: large;
+}
+
+.Answer {
+  text-align: right;
+  position: absolute;
+  top: 0px;
+  right: 0%;
+}

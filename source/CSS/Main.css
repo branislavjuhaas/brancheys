@@ -1,0 +1,30 @@
+.menu {
+  height: 25px;
+  width: auto;
+  background-color: rgba(255, 255, 255, 0);
+  border: 0cm;
+  color: rgb(255, 255, 255);
+  font-family: sans-serif;
+}
+
+.menu:hover {
+  color: rgb(86, 173, 255);
+}
+
+.menu:active {
+  color: rgb(72, 119, 163);
+}
+
+.next {
+  opacity: 0;
+  transition-duration: 500ms;
+}
+
+.next:hover {
+  opacity: 0.7;
+}
+
+.next:active {
+  transition-duration: 0ms;
+  opacity: 1;
+}
