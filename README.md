@@ -1,6 +1,8 @@
 # Branchey's
 
-Welcome to the repository for this website! I created this project in January 2021 as my initial dive into the world of web development. It's a simple, static site built for a fictional company I called "Branchey's".
+![Branchey's Home](readme/banner.png)
+
+Welcome to the repository for this website! I created the project in January 2022 as my initial dive into the world of web development. It's a simple, static site built for a concept I called "Branchey's".
 
 While not polished or advanced, this project represents an important first step in my programming journey.
 
